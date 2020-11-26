@@ -1,0 +1,1 @@
+<h1>Oi, <%= String.capitalize @name%></h1>
